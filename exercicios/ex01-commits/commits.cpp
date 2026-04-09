@@ -7,9 +7,9 @@ int main() {
     cin >> n;
 
     if (n % 2 == 0) {
-        cout << "Par" << "\n";
+        cout << "O numero é Par" << "\n";
     } else {
-        cout << "Impar" << "\n";
+        cout << "O numero é Impar" << "\n";
     }
 
     return 0;
