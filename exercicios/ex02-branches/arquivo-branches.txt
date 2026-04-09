@@ -1,0 +1,3 @@
+Uma branch é uma linha do tempo paralela do projeto.
+Permite trabalhar em algo novo sem afetar o código principal (main).
+Quando o trabalho termina, fazemos o merge para unir as mudanças.
