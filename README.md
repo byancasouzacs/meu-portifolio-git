@@ -7,6 +7,9 @@ Repositório com projetos desenvolvidos para demonstrar conhecimentos em program
 ```
 meu-portifolio-git/
 ├── README.md
+├── exercicios/
+│   └── ex01-commits/
+│       └── commits
 └── projeto/
     └── conversor/
         └── conversor-temp.cpp
