@@ -1,43 +1,43 @@
 # Meu Portfólio Git
 
-Repositório com projetos desenvolvidos para demonstrar conhecimentos em programação.
+Repositório criado para a atividade EI1 da disciplina de Desenvolvimento de Software, 2026.1.
 
-## 📁 Estrutura do Projeto
+O objetivo desse repositório é demonstrar o uso de Git de forma prática, com commits semânticos, uso de branches, Pull Requests e resolução de conflitos.
+
+## Estrutura do repositório
 
 ```
 meu-portifolio-git/
 ├── README.md
+├── REFLEXAO.md
+├── exercicios/
+│   ├── ex01-commits/
+│   ├── ex02-branches/
+│   └── ex03-conflito/
 └── projeto/
-    └── conversor/
-        └── conversor-temp.cpp
+    ├── conversor/
 ```
 
-## Projetos
+## O que foi praticado
 
-### 🌡️ Conversor de Temperatura
-Um programa simples em C++ que converte temperaturas de Celsius para Fahrenheit.
+- Criação de commits semânticos (Conventional Commits)
+- Uso de branches para trabalho paralelo
+- Abertura de Pull Requests
+- Merge de branches
+- Resolução de conflitos
 
-**Localização:** `projeto/conversor/conversor-temp.cpp`
+## Objetivo do exercício
 
-**Funcionalidades:**
-- Lê uma temperatura em Celsius
-- Converte para Fahrenheit
-- Exibe o resultado
+Este repositório busca demonstrar a compreensão dos seguintes conceitos:
 
-**Como usar:**
-```bash
-g++ projeto/conversor/conversor-temp.cpp -o conversor
-./conversor
-```
+- Uso de commits semânticos
+- Organização de trabalho com branches
+- Uso de Pull Requests
+- Resolução de conflitos de merge
+- Reflexão sobre o processo de aprendizagem do Git
 
-Então, digite a temperatura em Celsius quando solicitado.
+## Tecnologias utilizadas
 
-**Exemplo:**
-```
-Digite a temperatura em Celsius: 25
-Em Fahrenheit: 77°F
-```
-
----
-
-*Desenvolvido com C++*
+- Git
+- GitHub
+- C++
